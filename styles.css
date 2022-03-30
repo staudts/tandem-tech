@@ -1,5 +1,5 @@
  body, a {
-  background-color: #19a2b5;
+  background-color: #3f3d3d;
   color: #ffffff;
   font-size: 1.5rem;
 } 
@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #db4c0b;
+  color: #4EB0AC;
 }
 
 .name-skills {
@@ -20,20 +20,6 @@ a:hover {
 }
 
 footer {
+  background-color: #1c1b1b;
   font-size: 1rem;
 }
-/* colors
-#018699 og blue green
-
- orange venn diagram logo
-#eb4e06
-
-#19a2b5 pass large ui comp for both
-#db4c0b
-
-#1aa3b6
-#dc4c0b
-
- #2bb9ce
- #ef4f0e
-*/
